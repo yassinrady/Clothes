@@ -1,0 +1,33 @@
+@media (max-width: 700px) and (min-width: 0px){
+    .nav2{
+        display: block;
+    }
+    .nav1{
+        display: none;
+        transition: 1.5s;
+    }
+    .li-2{
+        display: block;
+    }
+    .btn5{
+        display: block;
+    }
+    .btn5:hover{
+        display: block;
+    }
+    .btn6{
+        display: block;
+    }
+    .home{
+        padding-top: 90px;
+        margin-left: 0px;
+        padding-left: 19px;
+    }
+    .img7{
+        background-size: cover!important;
+        background-position: center;
+    }
+    .images{
+        height: 40vh;
+    }
+}
